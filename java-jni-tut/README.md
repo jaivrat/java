@@ -13,6 +13,7 @@ Above is a very simple nice tutorial from Joel Kemp, describing how to write JNI
 You may go through the Joels tutorial, I have put all the tutorial steps oragnized into a makefile. just issue the command
 
 jvsingh: ~/work/github/java/java-jni-tut  -> make
+
 Step 01 - Compiling HelloWorld.java to HelloWorld.class ..
 javac HelloWorld.java
 -------------------------------------------------------
